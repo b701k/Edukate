@@ -10,6 +10,7 @@ The website is deployed using Azure Static Web Apps and can be accessed through 
 
 ![Screenshot 1][1](https://github.com/b701k/Edukate/assets/132773677/b6982eda-0dc3-4d96-a4d0-0a62c1b78812)
 
+
 ![Screenshot 2]![2](https://github.com/b701k/Edukate/assets/132773677/921062e0-f2d4-4d97-8a40-21f74f0029bd)
 
 
