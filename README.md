@@ -48,11 +48,11 @@ Azure Portal is the central hub for managing your Azure resources. It provides a
 
 Here are some screenshots of the Azure Portal showing the relevant services used in this project:
 
-![Azure Portal Screenshot 1]![3](https://github.com/b701k/Edukate/assets/132773677/c71d7dee-b45b-4158-b542-18d8bcaf5e6c)
+![3](https://github.com/b701k/Edukate/assets/132773677/c71d7dee-b45b-4158-b542-18d8bcaf5e6c)
 
 Static website service
 
-![Azure Portal Screenshot 2]![4](https://github.com/b701k/Edukate/assets/132773677/34caa691-eefb-4280-a836-450849d9250f)
+![4](https://github.com/b701k/Edukate/assets/132773677/34caa691-eefb-4280-a836-450849d9250f)
 
 Blob storage service
 ## Contributing
