@@ -8,10 +8,10 @@ The website is deployed using Azure Static Web Apps and can be accessed through 
 
 ## Screenshots
 
-![Screenshot 1](Screenshorts/1.png)
+![Screenshot 1][1](https://github.com/b701k/Edukate/assets/132773677/b6982eda-0dc3-4d96-a4d0-0a62c1b78812)
 
+![Screenshot 2]![2](https://github.com/b701k/Edukate/assets/132773677/921062e0-f2d4-4d97-8a40-21f74f0029bd)
 
-![Screenshot 2](Screenshorts/2.png)
 
 
 ## Features
@@ -37,7 +37,7 @@ The website is deployed using Azure Static Web Apps. You can access the deployed
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/BhagirathJha/Education`
+1. Clone the repository: `git clone https://github.com/b701k/Edukate`
 2. Open the project directory: `cd lifestyle-project`
 3. Open the `index.html` file in your web browser.
 
@@ -48,10 +48,12 @@ Azure Portal is the central hub for managing your Azure resources. It provides a
 
 Here are some screenshots of the Azure Portal showing the relevant services used in this project:
 
-![Azure Portal Screenshot 1](Screenshorts/3.png)
+![Azure Portal Screenshot 1]![3](https://github.com/b701k/Edukate/assets/132773677/c71d7dee-b45b-4158-b542-18d8bcaf5e6c)
+
 Static website service
 
-![Azure Portal Screenshot 2](Screenshorts/4.png)
+![Azure Portal Screenshot 2]![4](https://github.com/b701k/Edukate/assets/132773677/34caa691-eefb-4280-a836-450849d9250f)
+
 Blob storage service
 ## Contributing
 
